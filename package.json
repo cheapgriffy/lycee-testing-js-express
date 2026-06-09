@@ -1,0 +1,17 @@
+{
+  "name": "lycee-testing-js-express",
+  "version": "1.0.0",
+  "description": "Projet d'entraînement aux tests JavaScript et Express avec Jest et Supertest",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0",
+    "supertest": "^7.1.0"
+  }
+}
